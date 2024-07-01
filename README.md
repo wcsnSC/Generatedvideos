@@ -11,7 +11,10 @@ https://github.com/wcsnSC/Generated_videos/assets/157049486/8780c95f-fc9c-4d00-b
 ![框架](https://github.com/wcsnSC/Generated_videos/assets/157049486/cca96d72-c06a-4515-8e0c-e629fe059273)
 
 
-<audio controls>
-  <source src="https://s31.aconvert.com/convert/p3r68-cdx67/0ofva-1mz7u.wav" type="audio/wav">
-  <source src="https://s17.aconvert.com/convert/p3r68-cdx67/nvjhj-q1omx.mp3" type="audio/mp3">
-</audio>
+
+[点击这里播放音频gen_female_1st20s.mp3](https://s17.aconvert.com/convert/p3r68-cdx67/nvjhj-q1omx.mp3)<br>
+
+[点击这里播放音频_Female20s.wav](https://s31.aconvert.com/convert/p3r68-cdx67/0ofva-1mz7u.wav)
+
+
+
