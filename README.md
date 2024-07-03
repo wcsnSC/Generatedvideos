@@ -26,7 +26,7 @@ Txt2vid generated video
 https://github.com/wcsnSC/Generated_videos/assets/157049486/8780c95f-fc9c-4d00-b8da-5c7535fbe0ff
 
 
-[Txt2vid generated video](https://s17.aconvert.com/convert/p3r68-cdx67/nvjhj-q1omx.mp3)<br>
+[Txt2vid generated audio](https://s17.aconvert.com/convert/p3r68-cdx67/nvjhj-q1omx.mp3)<br>
 
 
 
