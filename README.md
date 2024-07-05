@@ -11,6 +11,8 @@ Fig. 1  Wav2vid System Architecture.
 
 Original audiovisual clip $\boldsymbol{X}$ :
 
+
+
 https://github.com/wcsnSC/Generated_videos/assets/157049486/f657b8d2-d3ee-499b-a01b-78bd453f2c99
 
 <!-- https://github.com/wcsnSC/Generated_videos/raw/main/video/Female18s.mp4
