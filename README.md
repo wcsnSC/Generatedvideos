@@ -1,4 +1,4 @@
-# Generated_videos
+# Generated videos
 
 ``` ![System Architecture](https://github.com/wcsnSC/Generated_videos/assets/157049486/cca96d72-c06a-4515-8e0c-e629fe059273)
 ```
