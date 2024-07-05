@@ -1,19 +1,20 @@
 # Wav2Vid: Multimodal Semantic Communication with Audio Driven Generated Video Conferencing
 
-``` ![System Architecture](https://github.com/wcsnSC/Generated_videos/assets/157049486/cca96d72-c06a-4515-8e0c-e629fe059273)
-```
+<!--  ![System Architecture](https://github.com/wcsnSC/Generated_videos/assets/157049486/cca96d72-c06a-4515-8e0c-e629fe059273)
+-->
 
 ![System Architecture](https://github.com/wcsnSC/Generated_videos/raw/main/img/sys_0705.png)
 
 Wav2vid System Architecture
 
 Original audiovisual clip $\boldsymbol{X}$.
-https://github.com/wcsnSC/Generated_videos/assets/157049486/b1c8a418-78f5-42b1-8a93-88a158911f9a
 
-``` 
-https://github.com/wcsnSC/Generated_videos/raw/main/video/Female18s.mp4
-[![视频示例] ] (https://drive.google.com/file/d/1oDZsgHVsQExHd68MWjisYPRU1BQHP3RX/view?usp=drive_link)
-```
+https://github.com/wcsnSC/Generated_videos/assets/157049486/f657b8d2-d3ee-499b-a01b-78bd453f2c99
+
+<!-- https://github.com/wcsnSC/Generated_videos/raw/main/video/Female18s.mp4
+ [![视频示例] ] (https://drive.google.com/file/d/1oDZsgHVsQExHd68MWjisYPRU1BQHP3RX/view?usp=drive_link)
+-->
+
 
 
 Short silent video clip $\boldsymbol{V}$.
