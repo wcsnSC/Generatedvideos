@@ -7,7 +7,7 @@
 
 Wav2vid System Architecture
 
-Original audiovisual clip $\boldsymbol{X}$.
+Original audiovisual clip $\boldsymbol{X}$ :
 
 https://github.com/wcsnSC/Generated_videos/assets/157049486/f657b8d2-d3ee-499b-a01b-78bd453f2c99
 
@@ -17,21 +17,24 @@ https://github.com/wcsnSC/Generated_videos/assets/157049486/f657b8d2-d3ee-499b-a
 
 
 
-Short silent video clip $\boldsymbol{V}$.
+Short silent video clip $\boldsymbol{V}$:
 
 https://github.com/wcsnSC/Generated_videos/assets/157049486/ec43ff84-2d47-42e5-84f0-51ae2cc4bb28
 
-[Transmitted auido](https://github.com/wcsnSC/Generated_videos/raw/main/audio/Female20s.wav)
+<!-- [Transmitted auido](https://github.com/wcsnSC/Generated_videos/raw/main/audio/Female20s.wav)
 
 ```[Transmitted auido](https://s31.aconvert.com/convert/p3r68-cdx67/0ofva-1mz7u.wav)
 ```
+-->
 
-Wav2vid generated audiovisual clip  $\widehat{\boldsymbol{X}}$.
+Wav2vid generated audiovisual clip  $\widehat{\boldsymbol{X}}$ :
 
-https://github.com/wcsnSC/Generated_videos/assets/157049486/60fb1863-481b-4806-b89c-03858184b9c6
+https://github.com/wcsnSC/Generated_videos/assets/157049486/d6a01905-a88f-4c58-be1c-299c18ac5278
+
+<!-- https://github.com/wcsnSC/Generated_videos/assets/157049486/60fb1863-481b-4806-b89c-03858184b9c6 -->
 
 
-Txt2vid generated video
+Txt2vid generated video :
 
 https://github.com/wcsnSC/Generated_videos/assets/157049486/8780c95f-fc9c-4d00-b8da-5c7535fbe0ff
 
