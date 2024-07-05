@@ -9,19 +9,19 @@ Wav2vid System Architecture
 
 Original audiovisual clip $\boldsymbol{X}$.
 
-https://github.com/wcsnSC/Generated_videos/assets/157049486/b1c8a418-78f5-42b1-8a93-88a158911f9a
+``` https://github.com/wcsnSC/Generated_videos/assets/157049486/b1c8a418-78f5-42b1-8a93-88a158911f9a
+```
+Female18s.mp4
+https://github.com/wcsnSC/Generated_videos/raw/main/video/Female18s.mp4
 
 Short silent video clip $\boldsymbol{V}$.
 
 https://github.com/wcsnSC/Generated_videos/assets/157049486/ec43ff84-2d47-42e5-84f0-51ae2cc4bb28
 
-<audio controls>
-  <source src="https://github.com/wcsnSC/Generated_videos/raw/main/audio/Female20s.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[Transmitted auido](https://github.com/wcsnSC/Generated_videos/raw/main/audio/Female20s.wav)
 
-[Transmitted auido](https://s31.aconvert.com/convert/p3r68-cdx67/0ofva-1mz7u.wav)
-
+```[Transmitted auido](https://s31.aconvert.com/convert/p3r68-cdx67/0ofva-1mz7u.wav)
+```
 
 Wav2vid generated audiovisual clip  $\widehat{\boldsymbol{X}}$.
 
