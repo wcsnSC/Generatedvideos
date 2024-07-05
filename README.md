@@ -8,11 +8,13 @@
 Wav2vid System Architecture
 
 Original audiovisual clip $\boldsymbol{X}$.
+https://github.com/wcsnSC/Generated_videos/assets/157049486/b1c8a418-78f5-42b1-8a93-88a158911f9a
 
-``` https://github.com/wcsnSC/Generated_videos/assets/157049486/b1c8a418-78f5-42b1-8a93-88a158911f9a
-```
-Female18s.mp4
+``` 
 https://github.com/wcsnSC/Generated_videos/raw/main/video/Female18s.mp4
+[![视频示例] ] (https://drive.google.com/file/d/1oDZsgHVsQExHd68MWjisYPRU1BQHP3RX/view?usp=drive_link)
+```
+
 
 Short silent video clip $\boldsymbol{V}$.
 
