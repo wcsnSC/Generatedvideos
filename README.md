@@ -5,7 +5,9 @@
 
 ![System Architecture](https://github.com/wcsnSC/Generated_videos/raw/main/img/sys_0705.png)
 
-Wav2vid System Architecture
+Fig. 1  Wav2vid System Architecture.
+
+---
 
 Original audiovisual clip $\boldsymbol{X}$ :
 
@@ -14,8 +16,6 @@ https://github.com/wcsnSC/Generated_videos/assets/157049486/f657b8d2-d3ee-499b-a
 <!-- https://github.com/wcsnSC/Generated_videos/raw/main/video/Female18s.mp4
  [![视频示例] ] (https://drive.google.com/file/d/1oDZsgHVsQExHd68MWjisYPRU1BQHP3RX/view?usp=drive_link)
 -->
-
-
 
 Short silent video clip $\boldsymbol{V}$:
 
@@ -26,6 +26,11 @@ https://github.com/wcsnSC/Generated_videos/assets/157049486/ec43ff84-2d47-42e5-8
 ```[Transmitted auido](https://s31.aconvert.com/convert/p3r68-cdx67/0ofva-1mz7u.wav)
 ```
 -->
+
+<audio controls>
+  <source src="https://github.com/wcsnSC/Generated_videos/raw/main/audio/Female20s.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
 
 Wav2vid generated audiovisual clip  $\widehat{\boldsymbol{X}}$ :
 
