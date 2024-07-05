@@ -1,8 +1,9 @@
 # Generated_videos
 
-% ![System Architecture](https://github.com/wcsnSC/Generated_videos/assets/157049486/cca96d72-c06a-4515-8e0c-e629fe059273)
+``` ![System Architecture](https://github.com/wcsnSC/Generated_videos/assets/157049486/cca96d72-c06a-4515-8e0c-e629fe059273)
+```
 
-![System Architecture](https://github.com/wcsnSC/Generated_videos/sys_0705.png）
+![System Architecture](https://github.com/wcsnSC/Generated_videos/raw/main/sys_0705.png)
 
 Wav2vid System Architecture
 
@@ -10,7 +11,7 @@ Original audiovisual clip $\boldsymbol{X}$.
 
 https://github.com/wcsnSC/Generated_videos/assets/157049486/b1c8a418-78f5-42b1-8a93-88a158911f9a
 
-Driving video $\boldsymbol{V}$.
+Short silent video clip $\boldsymbol{V}$.
 
 https://github.com/wcsnSC/Generated_videos/assets/157049486/ec43ff84-2d47-42e5-84f0-51ae2cc4bb28
 
