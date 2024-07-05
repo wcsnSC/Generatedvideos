@@ -1,4 +1,4 @@
-# Generated videos
+# Wav2Vid: Multimodal Semantic Communication with Audio Driven Generated Video Conferencing
 
 ``` ![System Architecture](https://github.com/wcsnSC/Generated_videos/assets/157049486/cca96d72-c06a-4515-8e0c-e629fe059273)
 ```
